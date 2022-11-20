@@ -1,4 +1,4 @@
-# Password-Genrator-Using-Python
+# Password Genrator Using Python
 ## This Is A Basic Password Genrator Using Python
 
 ### Installation on Debain Based Linux
